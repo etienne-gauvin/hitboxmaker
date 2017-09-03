@@ -1,0 +1,19 @@
+{
+  "name": "hitboxmaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etienne-gauvin/hitboxmaker.git"
+  },
+  "author": "Étienne Gauvin <etienne@gauvin.info>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etienne-gauvin/hitboxmaker/issues"
+  },
+  "homepage": "https://github.com/etienne-gauvin/hitboxmaker#readme"
+}
